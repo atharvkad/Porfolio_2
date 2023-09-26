@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.navbarmenu{
+    color: blue;
+    font-size: 20px;
+}
+.logo{
+    font-family: elephant;
+    font-size: 35px;
+    color: purple;
+    font-variant: small-caps;
+    
+}
